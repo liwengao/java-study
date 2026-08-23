@@ -1,6 +1,6 @@
-package ueers.dao;
+package users.dao;
 
-import ueers.entuty.User;
+import users.entuty.User;
 
 public class UserDatabase {
     final static int MAX_USERS = 1000;

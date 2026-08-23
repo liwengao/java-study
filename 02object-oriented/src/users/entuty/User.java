@@ -1,4 +1,4 @@
-package ueers.entuty;
+package users.entuty;
 
 public class User {
     private int id;

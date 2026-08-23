@@ -1,4 +1,4 @@
-package ueers.service;
+package users.service;
 
 public class Userservice {
 }

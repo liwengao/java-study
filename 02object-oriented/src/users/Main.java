@@ -1,7 +1,7 @@
-package ueers;
+package users;
 
-import ueers.dao.UserDatabase;
-import ueers.entuty.User;
+import users.dao.UserDatabase;
+import users.entuty.User;
 
 public class Main {
     static void main(String[] args) {
