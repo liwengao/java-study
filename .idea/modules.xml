@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/03-api.iml" filepath="$PROJECT_DIR$/03-api.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/01java-basic/01java-basic.iml" filepath="$PROJECT_DIR$/01java-basic/01java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02object-oriented/02object-oriented.iml" filepath="$PROJECT_DIR$/02object-oriented/02object-oriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java proment.iml" filepath="$PROJECT_DIR$/.idea/java proment.iml" />
+>>>>>>> ca24af11f6ac393d9d2d73be0552b65129e3c5e5
     </modules>
   </component>
 </project>
